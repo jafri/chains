@@ -44,7 +44,7 @@
    },
    "wbi": {
       "ENDPOINTS": [
-         "https://api.worbli.io"
+         "https://api.worbli.io",
          "https://api.worbli-mainnet.eoscalgary.io"
       ],
       "CORE_SYMBOL": "WBI",
